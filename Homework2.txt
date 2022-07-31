@@ -8,4 +8,8 @@ Second Branch add
 
 Upload SecondBranch on github
 
+<<<<<<< HEAD
 Add conflict line
+=======
+Ohhh i made a mistake
+>>>>>>> SecBrConflict
