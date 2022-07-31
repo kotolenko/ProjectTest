@@ -2,8 +2,10 @@
  2 two
 
 First Branch add
-Delete FirstBranch
+Deleted FirstBranch
 
 Second Branch add
 
 Upload SecondBranch on github
+
+Add conflict line
